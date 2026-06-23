@@ -1,4 +1,4 @@
-# Quantis (Financial Management EL)
+# Quantis
 
 **AI-Powered Financial Digital Twin for Wealth Forecasting, Risk Simulation, and Financial Decision Support.**
 
